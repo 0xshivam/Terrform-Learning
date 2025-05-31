@@ -27,5 +27,5 @@ ref: https://k21academy.com/terraform-iac/terraform-beginners-guide/
 
 ## Terraform commands
 
-`terraform --help
+terraform --help
 
